@@ -1,0 +1,9 @@
+{
+    "routes": [
+      { "src": "/login", "dest": "/login.html" },
+      { "src": "/registrasi", "dest": "/registrasi.html" },
+      { "src": "/biodata", "dest": "/biodata.html" },
+      { "src": "/gambar", "dest": "/gambar.html" }
+    ]
+  }
+  
